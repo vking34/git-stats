@@ -4,7 +4,7 @@
 
 ### global vars
 repos=(
-    ""
+    "repo-link-here"
 )   
 since="2021-01-01"
 totalRepos=0

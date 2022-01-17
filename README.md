@@ -7,6 +7,18 @@
 
 - There are a lot of repos in my company and there is no tool in the market satisfied the requirements so I have to write a tool in bash script by myself
 
+## How to run
+
+- Edit `git-stats.sh`:
+    - Copy repo git links to array `repos`
+    - Modify logic in function `checkoutBranch()` up to your case
+
+- Run:
+```
+./git-stats.sh
+```
+
+## Notes
 - Some following notes how to collect statistics and work with bash shell:
 
 ## Git commits between two dates
